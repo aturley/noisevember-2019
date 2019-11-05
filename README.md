@@ -8,3 +8,5 @@ try to do a noise-making project every day.
 * [Day 3](day-03) -- My Unit Generation
 
 * [Day 4](day-04) -- Twin Peaks
+
+* [Day 4b](day-04b) -- Slowly Moving Mountains
