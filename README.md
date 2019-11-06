@@ -10,3 +10,5 @@ try to do a noise-making project every day.
 * [Day 4](day-04) -- Twin Peaks
 
 * [Day 4b](day-04b) -- Slowly Moving Mountains
+
+* [Day 5](day-05) -- Random Shifts
