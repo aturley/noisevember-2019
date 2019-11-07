@@ -12,3 +12,5 @@ try to do a noise-making project every day.
 * [Day 4b](day-04b) -- Slowly Moving Mountains
 
 * [Day 5](day-05) -- Random Shifts
+
+* [Day 6](day-06) -- Whiplash
