@@ -14,3 +14,5 @@ try to do a noise-making project every day.
 * [Day 5](day-05) -- Random Shifts
 
 * [Day 6](day-06) -- Whiplash
+
+* [Day 7](day-07) -- Grain Elevator
