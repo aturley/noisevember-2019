@@ -18,3 +18,5 @@ try to do a noise-making project every day.
 * [Day 7](day-07) -- Grain Elevator
 
 * [Day 11](day-11) -- Blurble
+
+* [Day 11b](day-11b) -- 20 Beeps
