@@ -26,3 +26,5 @@ try to do a noise-making project every day.
 * [Day 13](day-13) -- On a Blustery Night Our Hero Squeals
 
 * [Day 14](day-14) -- Brakes on a Snowy Night
+
+* [Day 18](day-18) -- (I wrote some code that reads an AIFF file)
