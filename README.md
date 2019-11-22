@@ -17,3 +17,4 @@ try to do a noise-making project every day.
 * [Day 14](day-14) -- Brakes on a Snowy Night
 * [Day 18](day-18) -- (I wrote some code that reads an AIFF file)
 * [Day 19](day-19) -- Berlin Was Never A Place
+* [Day 21](day-21) -- (I created a MIDI synth)
